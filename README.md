@@ -28,5 +28,3 @@ Streamlit
 Jupyter Notebook
 Author
 © 2025 Tabhita Triana Florentina | All rights reserved."# ECommerce-Data-Analysis" 
-"# E-CommerceDataAnalysis" 
-"# E-CommerceDataAnalysis" 
