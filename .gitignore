@@ -1,0 +1,9 @@
+# ignore CSV and large data files
+*.csv
+*.xlsx
+*.json
+
+# ignore specific large files
+data/geolocation_dataset.csv
+dashboard/main_data (1).csv
+
